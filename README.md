@@ -2,6 +2,10 @@
 
 Libgdx use TextureView Rendering，修改Libgdx的渲染View为TextureView，可以跟原生的view进行透明层叠，Libgdx版本为1.9.14
 
+AndroidGraphics中AndroidApplicationBase改为弱引用
+
+补充原github项目中遗漏的文件
+
 博客地址: [博客地址](https://skyhand.blog.csdn.net/article/details/88540497)  
 
   
