@@ -6,6 +6,10 @@ AndroidGraphics中AndroidApplicationBase改为弱引用
 
 补充原github项目中遗漏的文件
 
+libgdx官方地址：[LibGDX](https://github.com/libgdx/libgdx)
+
+原demo地址(缺少so文件和部分java文件)：[原demo地址](https://github.com/tpnet/Libgdx-Backend-TextureView-Android)
+
 博客地址: [博客地址](https://skyhand.blog.csdn.net/article/details/88540497)  
 
   
